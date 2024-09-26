@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.header1{
+    background-color: black;
+    padding: 0.1px;
+    height: 35px;
+} 
+
+.header1 p{
+    color: #f9b31e;
+    justify-content: center;
+    display: flex;
+    line-height: 0.5;
+    font-weight: bold;
+    font-size: 14px;
+    
+}
